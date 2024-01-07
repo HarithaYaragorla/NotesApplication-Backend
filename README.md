@@ -12,7 +12,7 @@ A simple Node.js application for managing notes. It uses SQLite as a database an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/myapp.git
+   https://github.com/HarithaYaragorla/NotesApplication-Backend.git
    cd myapp
 
 
